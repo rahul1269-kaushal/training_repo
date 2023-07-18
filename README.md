@@ -1,4 +1,4 @@
-# Welcome to Sammy's HTML demo site!
+# Welcome to Sammy's Go demo site!
 
 This is a repostitory containing the files for the [demonstration website](https://html.sammy-codes.com) in the DigitalOcean tutorial series [How To Build a Website With HTML](https://www.digitalocean.com/community/tutorial_series/how-to-build-a-website-with-html).
 
